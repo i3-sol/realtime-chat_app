@@ -1,1 +1,0 @@
-py contribute.py --repository=git@github.com:DevGroupInc/project_chat_application.git -sd="2020/11/04, 11:10:26" -nw
